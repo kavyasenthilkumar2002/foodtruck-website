@@ -1,0 +1,10 @@
+{
+  "name": "icityfoods",
+  "private": true,
+  "scripts": {
+    "start": "npm start --prefix icity-foods",
+    "dev": "npm run dev --prefix icity-foods",
+    "build": "npm run build --prefix icity-foods",
+    "preview": "npm run preview --prefix icity-foods"
+  }
+}
