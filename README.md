@@ -89,7 +89,7 @@ FoodTruck/
 
 ⚙️ Installation
 Clone the Repository
-git clone https://github.com/yourusername/foodtruck.git
+git clone https://github.com/kavyasenthilkumar2002/foodtruck.git
 Navigate to Project
 cd foodtruck
 Install Dependencies
